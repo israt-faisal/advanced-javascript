@@ -14,3 +14,5 @@ console.log(fun);
 
 let ages = [2, 4, 6]
 console.log(ages[7]);
+
+null is the devloper have to set it on its own for not showing it and undefined is anything that is not defined in the array or function.
